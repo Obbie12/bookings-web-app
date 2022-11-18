@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Obbie12/bookings-web-app/pkg/config"
-	"github.com/Obbie12/bookings-web-app/pkg/handlers"
-	"github.com/Obbie12/bookings-web-app/pkg/render"
+	"github.com/Obbie12/bookings-web-app/internal/config"
+	"github.com/Obbie12/bookings-web-app/internal/handlers"
+	"github.com/Obbie12/bookings-web-app/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
